@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Thais\OneDrive - Fatec Centro Paula Souza\FATEC\5 Semestre 08-2022\Laboratório de Banco de Dados\Tarefas\ValidaCPF1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3203251529.index
+3942854300.index
+1105549250.index
+3915831382.index
+741467385.index
+2058344943.index
+2601216677.index
